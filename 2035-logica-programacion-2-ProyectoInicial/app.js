@@ -3,3 +3,7 @@ titulo.innerHTML = 'Juego del número secreto';
 
 let parrafo = document.querySelector('p');
 parrafo.innerHTML = 'Indica un número del 1 al 10'; // ejemplo de comentario para este repositorio de practica.
+
+function intentoDeUsuario() {   
+    alert('Click desde el bontón');
+}
